@@ -150,18 +150,17 @@ public preview :any={
   ){
     document.getElementById('modal1');
      this.script.load(     
-    'jquery',
-'popper',
-'bundle',
-'main',
-'color-scheme',
-'chart',
-'progressbar',
-'swiper',
-// 'moment',
-'daterangepicker',
-'nouislider',
-'app'
+      'jquery',
+      'popper',
+      'bundle',
+      'main',
+      'color-scheme',
+      'chart',
+      'progressbar',
+      'swiper',
+      'daterangepicker',
+      'nouislider',
+      'app'
       )
       .then(data => {
       })
@@ -376,7 +375,7 @@ public loadBranchs(){
     });  
 }
   ngAfterViewInit(): void {
-     $('#body').addClass("body-scroll theme-orange bg-theme transform-page-scale");
+     $('#body').addClass("body-scroll theme-red bg-theme transform-page-scale");
     this.stylist = this.formBuilder.group(
       {
         name: ['', Validators.required],

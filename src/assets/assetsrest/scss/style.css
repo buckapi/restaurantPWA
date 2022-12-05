@@ -96,10 +96,10 @@ Table of content
 .theme-red {
   /* radial gradient colors */
   --oneuiux-theme-color-grad-1: #ffc699;
-  --oneuiux-theme-color-grad-2: #ff5d83;
-  --oneuiux-theme-color-grad-3: #dc006a;
+  --oneuiux-theme-color-grad-2: #edb400;
+  --oneuiux-theme-color-grad-3: #ed0001;
   /* color schemes */
-  --oneuiux-theme-color: #FF5465;
+  --oneuiux-theme-color: #ed0000;
   --oneuiux-page-bg-1: #ffffff;
   --oneuiux-page-bg-2: #fffbf2;
   --oneuiux-page-bg-3: #ffeeee;
@@ -11526,10 +11526,10 @@ textarea.form-control-lg {
 .theme-red {
   /* radial gradient colors */
   --oneuiux-theme-color-grad-1: #ffc699;
-  --oneuiux-theme-color-grad-2: #ff5d83;
-  --oneuiux-theme-color-grad-3: #dc006a;
+  --oneuiux-theme-color-grad-2: #edb400;
+  --oneuiux-theme-color-grad-3: #ed0001;
   /* color schemes */
-  --oneuiux-theme-color: #FF5465;
+  --oneuiux-theme-color: #ed0000;
   --oneuiux-page-bg-1: #ffffff;
   --oneuiux-page-bg-2: #fffbf2;
   --oneuiux-page-bg-3: #ffeeee;
@@ -14362,8 +14362,8 @@ a.card {
 .dark-mode .theme-red {
   /* radial gradient colors */
   --oneuiux-theme-color-grad-1: #ffc699;
-  --oneuiux-theme-color-grad-2: #ff5d83;
-  --oneuiux-theme-color-grad-3: #dc006a;
+  --oneuiux-theme-color-grad-2: #edb400;
+  --oneuiux-theme-color-grad-3: #ed0001;
   /* color schemes */
   --oneuiux-theme-color: #f03d4f;
   --oneuiux-theme-link: #f46c7a;
